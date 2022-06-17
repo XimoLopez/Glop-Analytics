@@ -1,4 +1,0 @@
-Hola Github
-otra linea de texto de
-Vamos a ver si puedo hacer un commit desde la consola
-Ahora que ya le he pillado el truco vamos a subir este texto
